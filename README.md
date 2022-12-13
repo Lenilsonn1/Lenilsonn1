@@ -1,7 +1,7 @@
 ##  Olá! Eu sou o Lenilson Lira 🖐️
 
 [![ Portifolio ](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.figma.com/proto/n9p44QsU8ZlgHan9rmMVS0/Curriculum?scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
-[![ Likedin ](image.png)(https://www.linkedin.com/in/lenilson-lira-898157215/)
+[![ Likedin ](https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png)(https://www.linkedin.com/in/lenilson-lira-898157215/)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Lenilson1_)
 
 
